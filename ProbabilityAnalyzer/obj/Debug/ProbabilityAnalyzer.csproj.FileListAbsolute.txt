@@ -1,0 +1,6 @@
+C:\Users\Altav1sta\Documents\GitHub\ProbabilityAnalyzer\ProbabilityAnalyzer\bin\Debug\ProbabilityAnalyzer.exe.config
+C:\Users\Altav1sta\Documents\GitHub\ProbabilityAnalyzer\ProbabilityAnalyzer\bin\Debug\ProbabilityAnalyzer.exe
+C:\Users\Altav1sta\Documents\GitHub\ProbabilityAnalyzer\ProbabilityAnalyzer\bin\Debug\ProbabilityAnalyzer.pdb
+C:\Users\Altav1sta\Documents\GitHub\ProbabilityAnalyzer\ProbabilityAnalyzer\obj\Debug\ProbabilityAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Altav1sta\Documents\GitHub\ProbabilityAnalyzer\ProbabilityAnalyzer\obj\Debug\ProbabilityAnalyzer.exe
+C:\Users\Altav1sta\Documents\GitHub\ProbabilityAnalyzer\ProbabilityAnalyzer\obj\Debug\ProbabilityAnalyzer.pdb
